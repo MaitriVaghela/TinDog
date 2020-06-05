@@ -1,5 +1,5 @@
 # TinDog
-- TinDog(https://maitrivaghela.github.io/TinDog/) is a single page application developed using HTML, CSS and Bootstrap. 
+- [TinDog](https://maitrivaghela.github.io/TinDog/) is a single page application developed using HTML, CSS and Bootstrap. 
 - It is an imitation of Tinder, but for dogs.
 - The website consists the following:
   - Title section
